@@ -5,15 +5,19 @@ To write a python program to circulate the n variables using function concept
 PC
 Anaconda - Python 3.7
 ## Algorithm: 
-### Step 1: 
-### Step 2: 
+### Step 1:
+Define the function for the program. 
+### Step 2:
+Get the inputs from the uuser. 
 ### Step 3: 
-Get the value from the user for the number of rotation
+Get the value from the user for the number of rotation.
 ### Step 4: 
-Using the slicing concept rotate the list
+Using the slicing concept rotate the list.
 
-### Step 5: 
-### Step 6: 
+### Step 5:
+Print the values after circulating the variable.
+### Step 6:
+End the program. 
 ## Program:
 ```#Program to circulate N values.
 #Developed by:Divya R V
@@ -34,3 +38,4 @@ def circulate():
 
 
 ## Result:
+Thus the circulating the N-variable are successfully executed.
